@@ -1,1 +1,10 @@
-{}
+{
+  "app": {
+    "host": "127.0.0.1",
+    "port": 8081,
+    "password": "123456",
+    "locale": "zh-cn",
+    "context": "Mongo",
+    "monitoring": true
+  }
+}
